@@ -1,5 +1,3 @@
-# primitive-file-handler
-F1L3 3XP10R3R is a highly customized and visually enhanced Windows file explorer written in modern C++ with native Win32 APIs. It features a matrix-themed UI, real-time system stats, a built-in command prompt, and support for file operations like copy, delete, rename, and execute.
 # 🧠 F1L3 3XP10R3R - Win32 File Explorer (from scratch in C++)
 
 F1L3 3XP10R3R (pronounced "File Explorer") is a **custom-built file manager and command interface** for Windows, designed from the ground up using **pure Win32 API in C++**. It combines file system navigation, command-line interaction, and a unique hacker-style UI reminiscent of classic terminal aesthetics.
@@ -74,3 +72,60 @@ F1L3 3XP10R3R (pronounced "File Explorer") is a **custom-built file manager and 
 3. Link the required libraries in **Project Properties > Linker > Input > Additional Dependencies**:
    ```text
    comctl32.lib; shlwapi.lib; shell32.lib; uxtheme.lib; winmm.lib; wininet.lib; pdh.lib;
+   ```
+4. Set entry point as `wWinMain` if required.
+5. Build and run the project.
+
+---
+
+## 📥 Download
+
+👉 [**Download the latest setup (.exe) here**](/////)  
+**Version:** `v1.0.0`  
+*(Installer will be digitally signed in future updates.)*
+
+> If SmartScreen shows a warning, click “More info” > “Run anyway”.
+
+---
+
+## ⚙️ Performance
+
+This app is designed with speed in mind:
+
+- No frameworks or dependencies—just native code and fast Win32 calls.
+- Low memory usage and zero bloat.
+- Instant response to navigation and command inputs.
+
+---
+
+## 🔮 What's Next? (Upcoming v1.1 and Beyond)
+
+- 🔍 **Optimized Search Engine**
+  - Indexed, fast, and filterable file search
+
+- 🧑‍🎨 **UI Enhancements**
+  - More responsive layout
+  - Theme customization (Matrix, Dark, Classic)
+
+- 🧠 **Advanced Command Shell**
+  - Autocomplete and command history
+  - Built-in scripting support
+
+- 🛠️ **Plugin Support (Experimental)**
+  - User-defined tools and file operations
+
+---
+
+## 👨‍💻 Author
+
+Created by a developer passionate about performance-first, framework-free software for power users and system explorers.
+
+---
+
+## 📄 License
+
+This project is open-source and licensed under the [ GNU GENERAL PUBLIC LICENSE].
+
+---
+
+> 💬 Found a bug or want to contribute? Submit an issue or pull request on GitHub!
