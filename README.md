@@ -80,7 +80,7 @@ F1L3 3XP10R3R (pronounced "File Explorer") is a **custom-built file manager and 
 
 ## 📥 Download
 
-👉 [**Download the latest setup (.exe) here**](/////)  
+👉 [**Download the latest setup (.exe) here**](https://github.com/PRASADSHINDE117/primitive-file-handler/releases/download/v1.0.0/FILE.HANDLER.exe)  
 **Version:** `v1.0.0`  
 *(Installer will be digitally signed in future updates.)*
 
@@ -116,7 +116,7 @@ This app is designed with speed in mind:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author PRASAD SHINDE
 
 Created by a developer passionate about performance-first, framework-free software for power users and system explorers.
 
