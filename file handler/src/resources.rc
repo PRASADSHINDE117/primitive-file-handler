@@ -1,0 +1,16 @@
+#include <windows.h>
+#include "resource.h"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "..\\icon\\app.ico"
+IDI_ICON1              ICON                    "..\\icon\\app.ico"
+
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif 

@@ -1,0 +1,3 @@
+﻿  file handler.cpp
+C:\Users\Prasad\source\repos\file handler\src\file handler.cpp(255,34): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  file handler.vcxproj -> C:\Users\Prasad\source\repos\file handler\x64\Debug\file handler.exe
