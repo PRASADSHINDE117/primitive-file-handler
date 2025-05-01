@@ -9,7 +9,7 @@ F1L3 3XP10R3R (pronounced "File Explorer") is a **custom-built file manager and 
 
 ## 📸 Preview
 
-> *(Add screenshots or a demo GIF here if available)*
+> *(![image](https://github.com/user-attachments/assets/05a499e2-ce22-40c2-90e9-bd1e38e60565))*
 
 ---
 
